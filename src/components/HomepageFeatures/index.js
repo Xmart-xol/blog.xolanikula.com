@@ -3,33 +3,36 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
+ 
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'About me',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I was born and bred in the dusty streets of Khutsong township. 
+        I am 27 years old, and I am currently staying in Johannesburg.
+        Doing my BSc Hons in Computer Science at UJ
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Software Engineer',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I am a software engineer with over a year or experience.
+        My primary skillset includes C# and Java, with most of my
+        time spent on enterprise backend services
+      </>
+    ),
+  },
+  {
+    title: 'About this site',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        This is the tech-focused knowledge hub, where innovation meets insightful blogging. 
+        Explore a rich collection of articles, tutorials, and resources, be at the forefront of technology trends.
       </>
     ),
   },
