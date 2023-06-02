@@ -20,7 +20,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        I am a software engineer with over a year or experience.
+        I am a software engineer with over a year of experience.
         My primary skillset includes C# and Java, with most of my
         time spent on enterprise backend services
       </>
