@@ -10,8 +10,8 @@ const FeatureList = [
     description: (
       <>
         I was born and bred in the dusty streets of Khutsong township. 
-        I am 27 years old, and I am currently staying in Johannesburg.
-        Doing my BSc Hons in Computer Science at UJ
+        I am 27 years old. I am currently staying in Johannesburg,
+        doing my BSc Hons in Computer Science at UJ
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList = [
     description: (
       <>
         This is the tech-focused knowledge hub, where innovation meets insightful blogging. 
-        Explore a rich collection of articles, tutorials, and resources, be at the forefront of technology trends.
+        Explore a rich collection of articles, tutorials, and resources, and be at the forefront of technology trends.
       </>
     ),
   },
