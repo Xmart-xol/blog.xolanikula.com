@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "The Coolest tech hub",
   tagline: 'The Tech Intellect: Empowering Minds in the Knowledge Hub',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/me.jpg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
