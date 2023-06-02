@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Knowlege hub intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Welcome to my Knowledge Hub!
 
-## Getting Started
+In this section, I'll be sharing tutorials, insights, and documenting the skills I'm acquiring in the ever-evolving tech industry. From programming languages and frameworks to cutting-edge technologies, this hub will serve as a repository of my knowledge and journey.
 
-Get started by **creating a new site**.
+## 🚀 Tutorials and Guides
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+I'll be providing step-by-step tutorials and guides on various topics, helping you learn and master different aspects of technology. Whether you're a beginner or an experienced developer, you'll find resources here to enhance your skills and stay up-to-date with the latest industry trends.
 
-### What you'll need
+## 🌟 Tech Insights and Perspectives
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Apart from tutorials, I'll be sharing insights and perspectives on emerging technologies, industry trends, and best practices. You can expect thought-provoking articles that delve into the realms of innovation, providing you with a deeper understanding of the tech landscape.
 
-## Generate a new site
+## 📚 Skill Documentation
 
-Generate a new Docusaurus site using the **classic template**.
+As I progress in my tech career, I'll be documenting the skills I acquire along the way. This knowledge base will not only serve as a personal reference but also enable others to learn from my experiences and insights. Expect to find a collection of my skills and their practical applications.
 
-The classic template will automatically be added to your project after you run the command:
+So, let's embark on this tech journey together. Join me in exploring the vast and exciting world of technology, where we can learn, grow, and make our mark in this ever-expanding industry.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+*Happy learning!*
