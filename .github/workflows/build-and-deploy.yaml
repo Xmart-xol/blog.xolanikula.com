@@ -93,7 +93,7 @@ jobs:
           app_location: '/my-website' # App source code path
           api_location: '' # Api source code path - optional
           output_location: 'build' # Built app content directory - optional
-          ###### End of Repository/Build Configurations ######
+          ###### End of Repository/Build Configurations #####
 
       - name: Static Web App - get preview URL
         id: static_web_app_preview_url
