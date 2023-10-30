@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Markdown page By Fana
 ---
 
-# Markdown page example
+# Markdown page By Fana
 
 You don't need React to write simple standalone pages.
